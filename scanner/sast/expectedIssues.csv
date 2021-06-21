@@ -1,0 +1,12 @@
+CWE,Vulnerability Type,File,Line
+CWE-89,SQL Injection,src/com/ibm/security/appscan/altoromutual/util/DBUtil.java,219
+CWE-89,SQL Injection,src/com/ibm/security/appscan/altoromutual/util/DBUtil.java,242
+CWE-89,SQL Injection,src/com/ibm/security/appscan/altoromutual/util/DBUtil.java,276
+CWE-89,Second Order SQL Injection,src/com/ibm/security/appscan/altoromutual/util/DBUtil.java,403
+CWE-89,SQL Injection,src/com/ibm/security/appscan/altoromutual/util/DBUtil.java,471
+CWE-89,SQL Injection,src/com/ibm/security/appscan/altoromutual/util/DBUtil.java,494
+CWE-89,SQL Injection,src/com/ibm/security/appscan/altoromutual/util/DBUtil.java,506
+CWE-89,SQL Injection,src/com/ibm/security/appscan/altoromutual/util/DBUtil.java,519
+CWE-79,Reflected XSS,src/com/ibm/security/appscan/altoromutual/servlet/SurveyServlet.java,101
+CWE-611,XXE,src/com/ibm/security/appscan/altoromutual/util/ServletUtil.java,96
+CWE-547,src/com/ibm/security/appscan/altoromutual/servlet/AdminLoginServlet.java,45
